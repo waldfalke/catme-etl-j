@@ -85,7 +85,7 @@ java -Xmx4g -jar target/high-volume-excel-converter-2.0.1-SNAPSHOT.jar \
 
 ## Лицензия
 
-[Будет добавлена позже. Выберите подходящую лицензию для вашего проекта, например, MIT, Apache 2.0, и т.д.]
+MIT
 
 ## Вклад в проект (Contributing)
 
